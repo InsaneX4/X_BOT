@@ -1,0 +1,17 @@
+# Ignore the virtual environment folder
+twitter_bot_env/
+
+# Ignore the .env file (contains sensitive API keys)
+.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore other system-specific files (like for macOS or Linux)
+.DS_Store
+*.swp
